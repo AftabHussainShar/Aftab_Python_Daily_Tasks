@@ -1,0 +1,25 @@
+Tests and their types:
+ 1:parametric Tests
+ 2:No parametric Tests
+
+Before Starting Data Analyst:
+Step 1:Normality Test
+
+Step 2:Homogeneity Test
+
+Step 3:Purpose
+Two types of purpose
+1:camparison
+   Always only two things
+2:Relationship
+   Co-relationship
+
+Step 4:Data Type
+TWo types of data
+ 1:Categorical(Qualitive)
+ 2:Continuous(Quantitative)
+
+Step 5:Statistical Tests
+chi-Squared
+t-Test/ANOVA
+Correlation
